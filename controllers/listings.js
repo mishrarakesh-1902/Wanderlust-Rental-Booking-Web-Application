@@ -1,10 +1,7 @@
 ﻿
 
 
-// // module.exports.index = async (req, res) => {
-// //     const allListings = await Listing.find({});
-// //     res.render("listings/index.ejs", { allListings }); //check error
-// // };
+
 
 // module.exports.index = async (req, res) => {
 //     const { category } = req.query;
