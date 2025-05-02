@@ -3,8 +3,7 @@
 
 
 
-// module.exports.index = async (req, res) => {
-//     const { category } = req.query;
+
 
 //     let allListings;
 //     if (category) {
