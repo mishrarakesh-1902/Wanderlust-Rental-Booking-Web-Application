@@ -5,12 +5,7 @@
 
 
 
-//     let allListings;
-//     if (category) {
-//         allListings = await Listing.find({ category });
-//     } else {
-//         allListings = await Listing.find({});
-//     }
+
 
 //     res.render("listings/index.ejs", { allListings });
 // };
