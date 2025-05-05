@@ -7,8 +7,8 @@
 
 
 
-//     res.render("listings/index.ejs", { allListings });
-// };
+
+
 
 
 // module.exports.renderNewForm = (req, res)=> {
