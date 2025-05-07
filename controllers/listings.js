@@ -19,9 +19,7 @@
 
 
 
-//         return res.redirect("/listings");
-//     }
-    
+
 //     res.render("listings/show.ejs", { listing });
 // };
 
