@@ -14,11 +14,8 @@
 
 
 
-//     const{id} = req.params;
-//     const listing = await Listing.findById(id).populate({path: "reviews", populate: {
-//         path: "author",
-//     },
-// }).populate("owner");
+
+
 //     if (!listing) {
 
 //         req.flash("error", "Listing not found");
