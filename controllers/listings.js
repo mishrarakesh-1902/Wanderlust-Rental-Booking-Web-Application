@@ -20,8 +20,7 @@
 
 
 
-//     res.render("listings/show.ejs", { listing });
-// };
+
 
 
 // module.exports.createListing = async (req , res , next) => {
