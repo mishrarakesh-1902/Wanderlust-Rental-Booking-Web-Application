@@ -1,15 +1,4 @@
-﻿//     newListing.geometry = response.body.features[0].geometry;
-
-//     let savedListing = await newListing.save();
-//     console.log(savedListing);
-
-//     req.flash("success", "Successfully created a new listing!");
-//     res.redirect("/listings"); 
-    
-    
-
-
-
+﻿
 // module.exports.renderEditForm = async (req, res, next) => {
 //     const { id } = req.params;
 //     const listing = await Listing.findById(id);
