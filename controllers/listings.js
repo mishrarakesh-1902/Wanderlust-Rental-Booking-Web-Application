@@ -5,9 +5,6 @@ const mapToken = process.env.MAP_TOKEN;
 const geocodingClient = mbxGeocoding({ accessToken: mapToken });
 const User = require("../models/user");
 
-// SHOW ALL LISTINGS OR FILTER BY CATEGORY
-// module.exports.index = async (req, res) => {
-//     const { category } = req.query;
 
 //     let allListings;
 //     if (category) {
