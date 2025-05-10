@@ -50,16 +50,6 @@ module.exports.index = async (req, res) => {
     }
 };
 
-
-
-
-
-
-
-
-// module.exports.index = async (req, res) => {
-//     const { search } = req.query;
-
 //     try {
 //         let allListings = [];
 
