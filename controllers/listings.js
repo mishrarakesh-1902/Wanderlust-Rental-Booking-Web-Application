@@ -6,21 +6,6 @@ const geocodingClient = mbxGeocoding({ accessToken: mapToken });
 const User = require("../models/user");
 
 
-//     let allListings;
-//     if (category) {
-//         allListings = await Listing.find({ category });
-//     } else {
-//         allListings = await Listing.find({});
-//     }
-
-//     res.render("listings/index.ejs", { allListings });
-// };
-
-
-
-
-
-
 module.exports.index = async (req, res) => {
     const { search, category } = req.query;
 
