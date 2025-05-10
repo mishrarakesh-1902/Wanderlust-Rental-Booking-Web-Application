@@ -1,23 +1,4 @@
 ﻿
-//         if (typeof req.file !=="undefined") {
-//         let url = req.file.path;
-//         let filename = req.file.filename;
-//         listing.image = {url , filename};
-//         await listing.save();
-//         }    
-//         req.flash("success", "Listing Updated!");   
-//         res.redirect(`/listings/${id}`);                
-// };
-
-
-// module.exports.destroyListing = async(req,res) => {
-//     let{id} = req.params;
-//     let deletedListing  = await Listing.findByIdAndDelete(id);
-//     req.flash("success", "Successfully Deleted  listing!");
-//     res.redirect("/listings");
-// };
-
-
 const Listing = require("../models/listing");
 const mbxGeocoding = require('@mapbox/mapbox-sdk/services/geocoding');
 const mapToken = process.env.MAP_TOKEN;
