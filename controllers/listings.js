@@ -1,11 +1,4 @@
-﻿
-//     let originalImageUrl = listing.image.url;
-//     originalImageUrl = originalImageUrl.replace("/upload" , "/upload/w_250");
-//     res.render("listings/edit.ejs", { listing , originalImageUrl });
-// };  
-
-
-// module.exports.updateListing = async(req,res) => {       
+﻿// module.exports.updateListing = async(req,res) => {       
 //         let{ id } = req.params;
 //         let listing = await Listing.findByIdAndUpdate(id, {...req.body.listing}); 
 
