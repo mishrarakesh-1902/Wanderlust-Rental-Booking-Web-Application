@@ -50,8 +50,6 @@ module.exports.index = async (req, res) => {
     }
 };
 
-//     try {
-//         let allListings = [];
 
 //         if (search && search.trim() !== "") {
 //             const regex = new RegExp(search, "i");
