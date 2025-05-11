@@ -51,8 +51,6 @@ module.exports.index = async (req, res) => {
 };
 
 
-//         if (search && search.trim() !== "") {
-//             const regex = new RegExp(search, "i");
 
 //             const owner = await User.findOne({ username: regex });
 
