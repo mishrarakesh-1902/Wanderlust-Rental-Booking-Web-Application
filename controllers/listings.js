@@ -50,14 +50,6 @@ module.exports.index = async (req, res) => {
     }
 };
 
-//             const filter = {
-//                 $or: [
-//                     { title: regex },
-//                     { location: regex },
-//                     ...(owner ? [{ owner: owner._id }] : [])
-//                 ]
-//             };
-
 //             allListings = await Listing.find(filter).populate("owner");
 
 //             if (allListings.length === 0) {
