@@ -50,10 +50,6 @@ module.exports.index = async (req, res) => {
     }
 };
 
-
-
-//             const owner = await User.findOne({ username: regex });
-
 //             const filter = {
 //                 $or: [
 //                     { title: regex },
