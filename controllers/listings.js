@@ -50,11 +50,6 @@ module.exports.index = async (req, res) => {
     }
 };
 
-
-//         // No search: show all listings
-//         allListings = await Listing.find({}).populate("owner");
-//         res.render("listings/index", { allListings, search: "" });
-
 //     } catch (err) {
 //         console.error("Search error:", err);
 //         res.status(500).send("Server Error");
