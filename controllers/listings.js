@@ -50,14 +50,6 @@ module.exports.index = async (req, res) => {
     }
 };
 
-//             allListings = await Listing.find(filter).populate("owner");
-
-//             if (allListings.length === 0) {
-//                 return res.status(404).render("listings/notfound", { search });
-//             }
-
-//             return res.render("listings/index", { allListings, search });
-//         }
 
 //         // No search: show all listings
 //         allListings = await Listing.find({}).populate("owner");
