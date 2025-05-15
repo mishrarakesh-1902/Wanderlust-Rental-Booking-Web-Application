@@ -51,9 +51,6 @@ module.exports.index = async (req, res) => {
 };
 
 
-
-
-// SHOW FORM TO CREATE NEW LISTING
 module.exports.renderNewForm = (req, res) => {
     res.render("listings/new.ejs", { listing: {} });
 };
