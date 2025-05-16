@@ -55,7 +55,7 @@ module.exports.renderNewForm = (req, res) => {
     res.render("listings/new.ejs", { listing: {} });
 };
 
-// SHOW A SPECIFIC LISTING
+
 module.exports.showListing = async (req, res) => {
     const { id } = req.params;
     const listing = await Listing.findById(id)
