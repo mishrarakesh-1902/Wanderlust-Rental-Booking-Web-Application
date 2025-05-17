@@ -70,7 +70,6 @@ module.exports.showListing = async (req, res) => {
     res.render("listings/show.ejs", { listing });
 };
 
-// CREATE A NEW LISTING
 module.exports.createListing = async (req, res) => {
   const { listing } = req.body;
 
