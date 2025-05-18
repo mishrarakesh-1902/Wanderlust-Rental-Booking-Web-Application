@@ -98,8 +98,6 @@ module.exports.createListing = async (req, res) => {
   res.redirect("/listings");
 };
 
-
-// EDIT FORM
 module.exports.renderEditForm = async (req, res, next) => {
     const { id } = req.params;
     const listing = await Listing.findById(id);
