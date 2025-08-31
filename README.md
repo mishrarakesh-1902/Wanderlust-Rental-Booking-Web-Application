@@ -1,4 +1,4 @@
-# 🏡 Wanderlust - Dynamic Listings Web App  
+# 🏡 Wanderlust – Rental Booking Web Application 
 **Deployed on Render | Built with Node.js, Express & MongoDB**
 
 [![Deployed on Render](https://img.shields.io/badge/Live-Demo-brightgreen)](https://majorproject-lg4r.onrender.com/)
