@@ -22,3 +22,7 @@ All notable improvements and development milestones for Wanderlust.
 - Added schema definition for property title, description, price, location, and country.
 - Timestamp: `2026-01-06 13:10:15`
 
+### [2026-01-06] #06: test(db): verify Mongoose connection handling and error events
+- Added connection event listeners to log database status and reconnect on failure.
+- Timestamp: `2026-01-06 17:50:40`
+
