@@ -14,3 +14,7 @@ All notable improvements and development milestones for Wanderlust.
 - Set up package.json start and dev scripts with proper environment flags.
 - Timestamp: `2026-01-05 18:35:10`
 
+### [2026-01-06] #04: feat(db): establish MongoDB connection with Mongoose client
+- Created database connection helper with connection string fallback and error handling.
+- Timestamp: `2026-01-06 09:45:30`
+
