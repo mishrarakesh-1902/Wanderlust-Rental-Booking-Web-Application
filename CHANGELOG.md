@@ -18,3 +18,7 @@ All notable improvements and development milestones for Wanderlust.
 - Created database connection helper with connection string fallback and error handling.
 - Timestamp: `2026-01-06 09:45:30`
 
+### [2026-01-06] #05: feat(models): define initial Listing schema structure
+- Added schema definition for property title, description, price, location, and country.
+- Timestamp: `2026-01-06 13:10:15`
+
