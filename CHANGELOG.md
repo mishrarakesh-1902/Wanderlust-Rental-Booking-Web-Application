@@ -30,3 +30,7 @@ All notable improvements and development milestones for Wanderlust.
 - Set up ejs-mate for modular layout rendering and partial view composition.
 - Timestamp: `2026-01-07 10:30:25`
 
+### [2026-01-07] #08: style(ui): integrate Bootstrap 5 framework and FontAwesome icons
+- Added Bootstrap 5 stylesheet CDN and FontAwesome vector iconography.
+- Timestamp: `2026-01-07 14:15:50`
+
