@@ -26,3 +26,7 @@ All notable improvements and development milestones for Wanderlust.
 - Added connection event listeners to log database status and reconnect on failure.
 - Timestamp: `2026-01-06 17:50:40`
 
+### [2026-01-07] #07: feat(views): configure ejs-mate templating engine and layout boilerplate
+- Set up ejs-mate for modular layout rendering and partial view composition.
+- Timestamp: `2026-01-07 10:30:25`
+
