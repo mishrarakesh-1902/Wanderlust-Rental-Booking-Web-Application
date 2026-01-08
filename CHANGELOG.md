@@ -38,3 +38,7 @@ All notable improvements and development milestones for Wanderlust.
 - Implemented base boilerplate layout with sticky header and mobile toggle.
 - Timestamp: `2026-01-07 18:05:12`
 
+### [2026-01-08] #10: feat(listings): implement GET route to fetch and render all listings
+- Created index route querying all listing documents and passing to view.
+- Timestamp: `2026-01-08 09:20:40`
+
