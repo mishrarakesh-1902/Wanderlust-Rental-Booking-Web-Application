@@ -46,3 +46,7 @@ All notable improvements and development milestones for Wanderlust.
 - Built responsive card grid displaying property images and formatted nightly rate.
 - Timestamp: `2026-01-08 13:40:15`
 
+### [2026-01-08] #12: style(listings): refine card hover transitions and typography
+- Added smooth elevation hover effect and modern typography for listing titles.
+- Timestamp: `2026-01-08 17:25:30`
+
