@@ -42,3 +42,7 @@ All notable improvements and development milestones for Wanderlust.
 - Created index route querying all listing documents and passing to view.
 - Timestamp: `2026-01-08 09:20:40`
 
+### [2026-01-08] #11: feat(views): design listing cards with price and image thumbnail preview
+- Built responsive card grid displaying property images and formatted nightly rate.
+- Timestamp: `2026-01-08 13:40:15`
+
