@@ -50,3 +50,7 @@ All notable improvements and development milestones for Wanderlust.
 - Added smooth elevation hover effect and modern typography for listing titles.
 - Timestamp: `2026-01-08 17:25:30`
 
+### [2026-01-09] #13: feat(listings): build new listing form view with input constraints
+- Created form inputs for title, description, image URL, price, country, and location.
+- Timestamp: `2026-01-09 10:05:18`
+
