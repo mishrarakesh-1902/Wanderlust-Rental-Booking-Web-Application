@@ -58,3 +58,7 @@ All notable improvements and development milestones for Wanderlust.
 - Handled listing submission route, parsed request body, and saved to database.
 - Timestamp: `2026-01-09 14:30:45`
 
+### [2026-01-09] #15: refactor(listings): sanitize user text inputs before database write
+- Trimmed whitespace and normalized location strings during listing creation.
+- Timestamp: `2026-01-09 18:15:22`
+
