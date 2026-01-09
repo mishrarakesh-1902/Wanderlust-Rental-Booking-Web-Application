@@ -54,3 +54,7 @@ All notable improvements and development milestones for Wanderlust.
 - Created form inputs for title, description, image URL, price, country, and location.
 - Timestamp: `2026-01-09 10:05:18`
 
+### [2026-01-09] #14: feat(listings): implement POST handler to persist new property listings
+- Handled listing submission route, parsed request body, and saved to database.
+- Timestamp: `2026-01-09 14:30:45`
+
