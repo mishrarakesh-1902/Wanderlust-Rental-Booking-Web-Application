@@ -62,3 +62,7 @@ All notable improvements and development milestones for Wanderlust.
 - Trimmed whitespace and normalized location strings during listing creation.
 - Timestamp: `2026-01-09 18:15:22`
 
+### [2026-01-10] #16: feat(listings): implement property details show page route and template
+- Created show route fetching individual listing by ID with populated attributes.
+- Timestamp: `2026-01-10 09:30:10`
+
