@@ -66,3 +66,7 @@ All notable improvements and development milestones for Wanderlust.
 - Created show route fetching individual listing by ID with populated attributes.
 - Timestamp: `2026-01-10 09:30:10`
 
+### [2026-01-10] #17: feat(listings): create edit listing form and pre-fill current values
+- Rendered edit form with existing listing parameters pre-populated in input fields.
+- Timestamp: `2026-01-10 12:45:25`
+
