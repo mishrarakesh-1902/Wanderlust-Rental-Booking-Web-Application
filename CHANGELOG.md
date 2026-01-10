@@ -70,3 +70,7 @@ All notable improvements and development milestones for Wanderlust.
 - Rendered edit form with existing listing parameters pre-populated in input fields.
 - Timestamp: `2026-01-10 12:45:25`
 
+### [2026-01-10] #18: feat(listings): implement PUT route to update existing listing properties
+- Integrated method-override to support PUT request and updated MongoDB record.
+- Timestamp: `2026-01-10 15:50:40`
+
