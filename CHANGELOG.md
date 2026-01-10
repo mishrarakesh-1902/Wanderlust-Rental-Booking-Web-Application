@@ -74,3 +74,7 @@ All notable improvements and development milestones for Wanderlust.
 - Integrated method-override to support PUT request and updated MongoDB record.
 - Timestamp: `2026-01-10 15:50:40`
 
+### [2026-01-10] #19: feat(listings): implement DELETE route for removing property listings
+- Added delete listing endpoint to remove documents from MongoDB by ID.
+- Timestamp: `2026-01-10 19:10:15`
+
