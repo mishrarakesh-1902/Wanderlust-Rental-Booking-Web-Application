@@ -86,3 +86,7 @@ All notable improvements and development milestones for Wanderlust.
 - Established one-to-many relationship linking Review ObjectIds in Listing model.
 - Timestamp: `2026-01-11 14:00:30`
 
+### [2026-01-11] #22: feat(views): add review submission form to listing details page
+- Embedded comment textarea and rating selector within the listing show view.
+- Timestamp: `2026-01-11 17:45:20`
+
