@@ -78,3 +78,7 @@ All notable improvements and development milestones for Wanderlust.
 - Added delete listing endpoint to remove documents from MongoDB by ID.
 - Timestamp: `2026-01-10 19:10:15`
 
+### [2026-01-11] #20: feat(models): create Review schema with rating and comment fields
+- Defined Mongoose schema for customer reviews with 1-5 star constraints and timestamp.
+- Timestamp: `2026-01-11 10:15:55`
+
