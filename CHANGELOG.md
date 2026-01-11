@@ -82,3 +82,7 @@ All notable improvements and development milestones for Wanderlust.
 - Defined Mongoose schema for customer reviews with 1-5 star constraints and timestamp.
 - Timestamp: `2026-01-11 10:15:55`
 
+### [2026-01-11] #21: refactor(models): associate reviews array reference in Listing schema
+- Established one-to-many relationship linking Review ObjectIds in Listing model.
+- Timestamp: `2026-01-11 14:00:30`
+
