@@ -94,3 +94,7 @@ All notable improvements and development milestones for Wanderlust.
 - Created review creation handler that pushes new review ObjectId into listing.
 - Timestamp: `2026-01-12 09:50:12`
 
+### [2026-01-12] #24: feat(reviews): implement DELETE route with $pull operator from listing
+- Configured review deletion route using Mongoose $pull to remove review reference.
+- Timestamp: `2026-01-12 13:35:45`
+
