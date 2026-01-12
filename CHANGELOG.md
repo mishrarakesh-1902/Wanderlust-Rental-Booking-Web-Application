@@ -98,3 +98,7 @@ All notable improvements and development milestones for Wanderlust.
 - Configured review deletion route using Mongoose $pull to remove review reference.
 - Timestamp: `2026-01-12 13:35:45`
 
+### [2026-01-12] #25: style(reviews): style review cards with star ratings and author tags
+- Used starability CSS styles and cards for clean review display.
+- Timestamp: `2026-01-12 18:20:30`
+
