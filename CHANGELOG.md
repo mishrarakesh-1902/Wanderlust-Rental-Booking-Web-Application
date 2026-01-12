@@ -90,3 +90,7 @@ All notable improvements and development milestones for Wanderlust.
 - Embedded comment textarea and rating selector within the listing show view.
 - Timestamp: `2026-01-11 17:45:20`
 
+### [2026-01-12] #23: feat(reviews): implement POST route to save reviews for a listing
+- Created review creation handler that pushes new review ObjectId into listing.
+- Timestamp: `2026-01-12 09:50:12`
+
