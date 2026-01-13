@@ -110,3 +110,7 @@ All notable improvements and development milestones for Wanderlust.
 - Eliminated redundant try-catch blocks across async route controllers.
 - Timestamp: `2026-01-13 14:40:50`
 
+### [2026-01-13] #28: feat(views): create dedicated error template for user-friendly error display
+- Added error.ejs view with responsive alert layout and HTTP status code display.
+- Timestamp: `2026-01-13 18:10:35`
+
