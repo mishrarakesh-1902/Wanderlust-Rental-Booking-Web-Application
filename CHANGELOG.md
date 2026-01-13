@@ -102,3 +102,7 @@ All notable improvements and development milestones for Wanderlust.
 - Used starability CSS styles and cards for clean review display.
 - Timestamp: `2026-01-12 18:20:30`
 
+### [2026-01-13] #26: feat(errors): implement ExpressError custom exception class
+- Created reusable error class extending Error with statusCode and custom message.
+- Timestamp: `2026-01-13 10:20:15`
+
