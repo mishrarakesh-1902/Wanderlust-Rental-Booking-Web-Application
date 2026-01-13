@@ -106,3 +106,7 @@ All notable improvements and development milestones for Wanderlust.
 - Created reusable error class extending Error with statusCode and custom message.
 - Timestamp: `2026-01-13 10:20:15`
 
+### [2026-01-13] #27: feat(middleware): introduce catchAsync wrapper for asynchronous route handlers
+- Eliminated redundant try-catch blocks across async route controllers.
+- Timestamp: `2026-01-13 14:40:50`
+
