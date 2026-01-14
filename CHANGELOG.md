@@ -118,3 +118,7 @@ All notable improvements and development milestones for Wanderlust.
 - Defined strict Joi schema rules ensuring valid prices and required text fields.
 - Timestamp: `2026-01-14 09:40:20`
 
+### [2026-01-14] #30: feat(validation): introduce Joi schema validation for review submissions
+- Enforced validation constraints on review comments and numeric ratings.
+- Timestamp: `2026-01-14 13:15:45`
+
