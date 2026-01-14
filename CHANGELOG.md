@@ -114,3 +114,7 @@ All notable improvements and development milestones for Wanderlust.
 - Added error.ejs view with responsive alert layout and HTTP status code display.
 - Timestamp: `2026-01-13 18:10:35`
 
+### [2026-01-14] #29: feat(validation): introduce Joi schema validation for listing creation
+- Defined strict Joi schema rules ensuring valid prices and required text fields.
+- Timestamp: `2026-01-14 09:40:20`
+
