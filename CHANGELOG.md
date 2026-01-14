@@ -122,3 +122,7 @@ All notable improvements and development milestones for Wanderlust.
 - Enforced validation constraints on review comments and numeric ratings.
 - Timestamp: `2026-01-14 13:15:45`
 
+### [2026-01-14] #31: refactor(middleware): build validateListing and validateReview middleware
+- Attached reusable Joi validation middleware to listing and review POST/PUT routes.
+- Timestamp: `2026-01-14 17:30:10`
+
