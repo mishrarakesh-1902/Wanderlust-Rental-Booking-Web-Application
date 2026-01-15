@@ -126,3 +126,7 @@ All notable improvements and development milestones for Wanderlust.
 - Attached reusable Joi validation middleware to listing and review POST/PUT routes.
 - Timestamp: `2026-01-14 17:30:10`
 
+### [2026-01-15] #32: feat(auth): configure express-session and cookie security options
+- Configured session secret, cookie expiration age, and HTTP-only cookie flags.
+- Timestamp: `2026-01-15 10:05:30`
+
