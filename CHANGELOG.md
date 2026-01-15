@@ -130,3 +130,7 @@ All notable improvements and development milestones for Wanderlust.
 - Configured session secret, cookie expiration age, and HTTP-only cookie flags.
 - Timestamp: `2026-01-15 10:05:30`
 
+### [2026-01-15] #33: feat(auth): configure connect-flash for flash notifications
+- Added flash middleware and exposed success/error messages to all view templates.
+- Timestamp: `2026-01-15 14:25:15`
+
