@@ -134,3 +134,7 @@ All notable improvements and development milestones for Wanderlust.
 - Added flash middleware and exposed success/error messages to all view templates.
 - Timestamp: `2026-01-15 14:25:15`
 
+### [2026-01-15] #34: feat(models): create User schema with passport-local-mongoose plugin
+- Implemented User model with automated salt, hash, and username uniqueness.
+- Timestamp: `2026-01-15 18:40:50`
+
