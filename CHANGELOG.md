@@ -146,3 +146,7 @@ All notable improvements and development milestones for Wanderlust.
 - Created signup view and controller registering new user and opening session.
 - Timestamp: `2026-01-16 13:20:15`
 
+### [2026-01-16] #37: feat(auth): implement login and logout handlers with session invalidation
+- Added login authentication route and logout redirect with flash feedback.
+- Timestamp: `2026-01-16 17:55:30`
+
