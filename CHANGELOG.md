@@ -138,3 +138,7 @@ All notable improvements and development milestones for Wanderlust.
 - Implemented User model with automated salt, hash, and username uniqueness.
 - Timestamp: `2026-01-15 18:40:50`
 
+### [2026-01-16] #35: feat(auth): initialize Passport.js local strategy authentication
+- Configured passport serialize and deserialize routines with local authentication.
+- Timestamp: `2026-01-16 09:35:40`
+
