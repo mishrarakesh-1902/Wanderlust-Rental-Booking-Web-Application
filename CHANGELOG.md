@@ -142,3 +142,7 @@ All notable improvements and development milestones for Wanderlust.
 - Configured passport serialize and deserialize routines with local authentication.
 - Timestamp: `2026-01-16 09:35:40`
 
+### [2026-01-16] #36: feat(auth): implement user registration route with automatic login
+- Created signup view and controller registering new user and opening session.
+- Timestamp: `2026-01-16 13:20:15`
+
