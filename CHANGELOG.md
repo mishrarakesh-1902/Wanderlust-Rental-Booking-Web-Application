@@ -150,3 +150,7 @@ All notable improvements and development milestones for Wanderlust.
 - Added login authentication route and logout redirect with flash feedback.
 - Timestamp: `2026-01-16 17:55:30`
 
+### [2026-01-17] #38: feat(middleware): implement isLoggedIn authentication route guard
+- Restricted listing creation, editing, and deletion to authenticated users.
+- Timestamp: `2026-01-17 10:10:25`
+
