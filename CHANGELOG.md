@@ -154,3 +154,7 @@ All notable improvements and development milestones for Wanderlust.
 - Restricted listing creation, editing, and deletion to authenticated users.
 - Timestamp: `2026-01-17 10:10:25`
 
+### [2026-01-17] #39: feat(models): link listing ownership to authenticated user
+- Added owner ObjectId reference to Listing schema referencing User model.
+- Timestamp: `2026-01-17 14:35:40`
+
