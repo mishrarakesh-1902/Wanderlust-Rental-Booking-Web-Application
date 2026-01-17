@@ -158,3 +158,7 @@ All notable improvements and development milestones for Wanderlust.
 - Added owner ObjectId reference to Listing schema referencing User model.
 - Timestamp: `2026-01-17 14:35:40`
 
+### [2026-01-17] #40: feat(views): conditionally render listing action buttons based on session
+- Hid edit and delete buttons from non-owners and unauthenticated visitors.
+- Timestamp: `2026-01-17 18:15:10`
+
