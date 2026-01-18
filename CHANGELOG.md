@@ -162,3 +162,7 @@ All notable improvements and development milestones for Wanderlust.
 - Hid edit and delete buttons from non-owners and unauthenticated visitors.
 - Timestamp: `2026-01-17 18:15:10`
 
+### [2026-01-18] #41: feat(middleware): create isOwner authorization check for listing modification
+- Prevented unauthorized users from submitting PUT or DELETE requests on listings.
+- Timestamp: `2026-01-18 09:45:20`
+
