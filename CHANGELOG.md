@@ -166,3 +166,7 @@ All notable improvements and development milestones for Wanderlust.
 - Prevented unauthorized users from submitting PUT or DELETE requests on listings.
 - Timestamp: `2026-01-18 09:45:20`
 
+### [2026-01-18] #42: feat(middleware): implement isReviewAuthor check for review management
+- Secured review delete route so only the original reviewer can remove comments.
+- Timestamp: `2026-01-18 13:30:50`
+
