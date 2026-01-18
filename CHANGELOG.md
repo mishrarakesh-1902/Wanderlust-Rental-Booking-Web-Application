@@ -170,3 +170,7 @@ All notable improvements and development milestones for Wanderlust.
 - Secured review delete route so only the original reviewer can remove comments.
 - Timestamp: `2026-01-18 13:30:50`
 
+### [2026-01-18] #43: refactor(routes): modularize routes into separate Express Router files
+- Split monolithic route file into distinct listings, reviews, and users routers.
+- Timestamp: `2026-01-18 17:40:15`
+
