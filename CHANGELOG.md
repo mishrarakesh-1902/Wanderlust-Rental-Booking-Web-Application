@@ -178,3 +178,7 @@ All notable improvements and development milestones for Wanderlust.
 - Moved listing handlers to controllers/listings.js for clean architecture separation.
 - Timestamp: `2026-01-19 10:25:35`
 
+### [2026-01-19] #45: feat(controllers): extract review route logic into MVC review controller
+- Refactored review endpoints into controllers/reviews.js.
+- Timestamp: `2026-01-19 14:10:20`
+
