@@ -174,3 +174,7 @@ All notable improvements and development milestones for Wanderlust.
 - Split monolithic route file into distinct listings, reviews, and users routers.
 - Timestamp: `2026-01-18 17:40:15`
 
+### [2026-01-19] #44: feat(controllers): extract listing route logic into MVC listing controller
+- Moved listing handlers to controllers/listings.js for clean architecture separation.
+- Timestamp: `2026-01-19 10:25:35`
+
