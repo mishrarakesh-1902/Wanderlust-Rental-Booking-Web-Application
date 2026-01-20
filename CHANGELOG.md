@@ -190,3 +190,7 @@ All notable improvements and development milestones for Wanderlust.
 - Set up cloudConfig.js with Cloudinary API keys and multer file upload storage.
 - Timestamp: `2026-01-20 09:15:30`
 
+### [2026-01-20] #48: feat(upload): support image file upload on listing creation form
+- Added multipart/form-data support and uploaded listing images to Cloudinary.
+- Timestamp: `2026-01-20 12:40:50`
+
