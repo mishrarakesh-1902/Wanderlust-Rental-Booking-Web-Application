@@ -186,3 +186,7 @@ All notable improvements and development milestones for Wanderlust.
 - Consolidated signup, login, and logout controller functions in controllers/users.js.
 - Timestamp: `2026-01-19 18:30:45`
 
+### [2026-01-20] #47: chore(config): configure Cloudinary storage and multer upload middleware
+- Set up cloudConfig.js with Cloudinary API keys and multer file upload storage.
+- Timestamp: `2026-01-20 09:15:30`
+
