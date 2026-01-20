@@ -198,3 +198,7 @@ All notable improvements and development milestones for Wanderlust.
 - Handled optional file upload in edit listing route and updated Cloudinary path.
 - Timestamp: `2026-01-20 15:55:15`
 
+### [2026-01-20] #50: refactor(models): store image URL and Cloudinary filename in Listing schema
+- Updated listing image schema to store secure URL and public identifier.
+- Timestamp: `2026-01-20 19:20:40`
+
