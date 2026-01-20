@@ -194,3 +194,7 @@ All notable improvements and development milestones for Wanderlust.
 - Added multipart/form-data support and uploaded listing images to Cloudinary.
 - Timestamp: `2026-01-20 12:40:50`
 
+### [2026-01-20] #49: feat(upload): support image replacement when updating an existing listing
+- Handled optional file upload in edit listing route and updated Cloudinary path.
+- Timestamp: `2026-01-20 15:55:15`
+
