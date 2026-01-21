@@ -206,3 +206,7 @@ All notable improvements and development milestones for Wanderlust.
 - Imported Mapbox client library and configured public access token.
 - Timestamp: `2026-01-21 10:35:10`
 
+### [2026-01-21] #52: feat(geocoding): implement forward geocoding on listing creation
+- Converted textual location queries into latitude and longitude coordinates.
+- Timestamp: `2026-01-21 14:20:45`
+
