@@ -210,3 +210,7 @@ All notable improvements and development milestones for Wanderlust.
 - Converted textual location queries into latitude and longitude coordinates.
 - Timestamp: `2026-01-21 14:20:45`
 
+### [2026-01-21] #53: feat(models): add GeoJSON Point geometry field to Listing schema
+- Stored GeoJSON coordinates array with Point type for geospatial capabilities.
+- Timestamp: `2026-01-21 18:05:30`
+
