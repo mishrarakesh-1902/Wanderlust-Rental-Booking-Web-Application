@@ -202,3 +202,7 @@ All notable improvements and development milestones for Wanderlust.
 - Updated listing image schema to store secure URL and public identifier.
 - Timestamp: `2026-01-20 19:20:40`
 
+### [2026-01-21] #51: feat(maps): integrate Mapbox GL JS SDK and geocoding services
+- Imported Mapbox client library and configured public access token.
+- Timestamp: `2026-01-21 10:35:10`
+
