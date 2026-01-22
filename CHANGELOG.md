@@ -222,3 +222,7 @@ All notable improvements and development milestones for Wanderlust.
 - Created red marker with interactive popup displaying property title and location.
 - Timestamp: `2026-01-22 13:40:15`
 
+### [2026-01-22] #56: fix(maps): handle fallback coordinates for ambiguous address entries
+- Defaulted to city-level centroid when specific street geocoding yields low confidence.
+- Timestamp: `2026-01-22 17:25:50`
+
