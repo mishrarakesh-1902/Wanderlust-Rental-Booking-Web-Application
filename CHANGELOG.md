@@ -214,3 +214,7 @@ All notable improvements and development milestones for Wanderlust.
 - Stored GeoJSON coordinates array with Point type for geospatial capabilities.
 - Timestamp: `2026-01-21 18:05:30`
 
+### [2026-01-22] #54: feat(views): embed interactive Mapbox map in listing show page
+- Rendered Mapbox GL map instance centered at property geographical coordinates.
+- Timestamp: `2026-01-22 09:50:25`
+
