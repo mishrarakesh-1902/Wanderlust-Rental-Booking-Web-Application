@@ -218,3 +218,7 @@ All notable improvements and development milestones for Wanderlust.
 - Rendered Mapbox GL map instance centered at property geographical coordinates.
 - Timestamp: `2026-01-22 09:50:25`
 
+### [2026-01-22] #55: style(maps): add custom pin marker and popup card to location map
+- Created red marker with interactive popup displaying property title and location.
+- Timestamp: `2026-01-22 13:40:15`
+
