@@ -234,3 +234,7 @@ All notable improvements and development milestones for Wanderlust.
 - Enforced httpOnly, 7-day cookie expiration, and environment-aware secure flags.
 - Timestamp: `2026-01-23 14:30:10`
 
+### [2026-01-23] #59: feat(security): sanitize mongo queries against NoSQL injection attempts
+- Added input sanitization to block malicious MongoDB query operator injections.
+- Timestamp: `2026-01-23 18:45:25`
+
