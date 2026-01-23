@@ -230,3 +230,7 @@ All notable improvements and development milestones for Wanderlust.
 - Integrated MongoStore to retain user sessions in MongoDB rather than memory.
 - Timestamp: `2026-01-23 10:15:40`
 
+### [2026-01-23] #58: feat(security): set secure cookie attributes and maxAge duration
+- Enforced httpOnly, 7-day cookie expiration, and environment-aware secure flags.
+- Timestamp: `2026-01-23 14:30:10`
+
