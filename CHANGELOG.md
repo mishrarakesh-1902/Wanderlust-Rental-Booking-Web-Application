@@ -226,3 +226,7 @@ All notable improvements and development milestones for Wanderlust.
 - Defaulted to city-level centroid when specific street geocoding yields low confidence.
 - Timestamp: `2026-01-22 17:25:50`
 
+### [2026-01-23] #57: feat(security): configure connect-mongo for persistent session store
+- Integrated MongoStore to retain user sessions in MongoDB rather than memory.
+- Timestamp: `2026-01-23 10:15:40`
+
