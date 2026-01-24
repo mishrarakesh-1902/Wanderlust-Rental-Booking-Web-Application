@@ -238,3 +238,7 @@ All notable improvements and development milestones for Wanderlust.
 - Added input sanitization to block malicious MongoDB query operator injections.
 - Timestamp: `2026-01-23 18:45:25`
 
+### [2026-01-24] #60: feat(search): implement search functionality by destination country or title
+- Added search query filter to index route matching listing titles and countries.
+- Timestamp: `2026-01-24 09:30:15`
+
