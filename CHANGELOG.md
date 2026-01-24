@@ -242,3 +242,7 @@ All notable improvements and development milestones for Wanderlust.
 - Added search query filter to index route matching listing titles and countries.
 - Timestamp: `2026-01-24 09:30:15`
 
+### [2026-01-24] #61: feat(filters): add category filter pills for iconic cities, rooms, and mountains
+- Implemented category navigation filters with responsive horizontal scrollbar.
+- Timestamp: `2026-01-24 13:15:50`
+
