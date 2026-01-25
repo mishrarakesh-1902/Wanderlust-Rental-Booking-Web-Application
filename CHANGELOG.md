@@ -250,3 +250,7 @@ All notable improvements and development milestones for Wanderlust.
 - Refined navigation bar branding, search bar styling, and dropdown menus.
 - Timestamp: `2026-01-24 17:50:35`
 
+### [2026-01-25] #63: feat(tax): add interactive GST tax toggle switch to listing prices
+- Created client-side JavaScript toggle calculating dynamic 18% tax on rates.
+- Timestamp: `2026-01-25 10:20:30`
+
