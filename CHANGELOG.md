@@ -258,3 +258,7 @@ All notable improvements and development milestones for Wanderlust.
 - Designed cohesive footer with brand links, privacy terms, and responsive layout.
 - Timestamp: `2026-01-25 14:45:15`
 
+### [2026-01-25] #65: docs: update README with setup guide, features, and deployment documentation
+- Comprehensive documentation covering environment setup, MongoDB, Mapbox, and deployment.
+- Timestamp: `2026-01-25 19:10:40`
+
