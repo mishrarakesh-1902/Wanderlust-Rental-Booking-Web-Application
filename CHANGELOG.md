@@ -254,3 +254,7 @@ All notable improvements and development milestones for Wanderlust.
 - Created client-side JavaScript toggle calculating dynamic 18% tax on rates.
 - Timestamp: `2026-01-25 10:20:30`
 
+### [2026-01-25] #64: style(ui): build responsive footer with social links and copyright notice
+- Designed cohesive footer with brand links, privacy terms, and responsive layout.
+- Timestamp: `2026-01-25 14:45:15`
+
