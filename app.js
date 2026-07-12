@@ -1,4 +1,4 @@
-// app.js (Fully Working Version for Wanderlust Project)
+
 
 if (process.env.NODE_ENV !== "production") {
   require("dotenv").config();

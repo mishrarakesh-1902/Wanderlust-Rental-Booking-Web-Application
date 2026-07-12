@@ -1,4 +1,4 @@
-// const Booking = require("../models/booking");
+﻿// const Booking = require("../models/booking");
 // const Listing = require("../models/listing");
 
 // module.exports.renderBookingForm = async (req, res) => {
@@ -72,5 +72,3 @@ module.exports.createBooking = async (req, res) => {
   req.flash("success", "Booking successful!");
   res.redirect(`/listings/${id}`);
 };
-
-
